@@ -13,7 +13,7 @@ export function Projects() {
         description="TecnoTalk est un outil pour faciliter la mise de punitions aux élèves, conçu pour les professeurs. Il permet de gérer et suivre les sanctions de façon simple et rapide."
         content=""
         avatars={[]}
-        link=""
+        link="https://github.com/glownydev/tecnotalk"
       />
       <Column horizontal="center" marginTop="16">
         <SmartLink href="https://github.com/glownydev/tecnotalk/releases/download/v.0.3.2-alpha/TecnoTalk.Desktop.Setup.1.0.0.exe">
