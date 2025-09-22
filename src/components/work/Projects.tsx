@@ -14,6 +14,7 @@ export function Projects() {
         content=""
         avatars={[]}
         link="https://github.com/glownydev/tecnotalk"
+        appLink="https://app.tamimkh.com"
       />
       <Column horizontal="center" marginTop="16">
         <SmartLink href="https://github.com/glownydev/tecnotalk/releases/download/v.0.3.2-alpha/TecnoTalk.Desktop.Setup.1.0.0.exe">
