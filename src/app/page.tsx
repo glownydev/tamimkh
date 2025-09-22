@@ -104,19 +104,7 @@ export default function Home() {
       <RevealFx translateY="16" delay={0.6}>
         <Projects />
       </RevealFx>
-    {/* Section blog supprimée */}
-        <RevealFx translateY="0" delay={0.35} fillWidth horizontal="center" paddingBottom="8">
-          <Button
-            href="/cv-tamim-khenissi.pdf"
-            variant="secondary"
-            size="l"
-            style={{ fontWeight: 600, fontSize: 18, borderRadius: 10, padding: '12px 32px', minWidth: 0, display: 'flex', alignItems: 'center', justifyContent: 'center' }}
-            download
-          >
-            <FileText style={{ width: 18, height: 18, marginRight: 8, verticalAlign: 'middle' }} />
-            Télécharger mon CV
-          </Button>
-        </RevealFx>
+    {/* Section blog supprimée - bouton CV supprimé */}
     </Column>
   );
 }
